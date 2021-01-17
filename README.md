@@ -1,4 +1,4 @@
-Resolução explicando passo a passo, da competição do Kaggle referente ao preço de vendas de casas.\n
+Minha resolução explicando passo a passo, da competição do Kaggle referente ao preço de vendas de casas.\n
 
 Competição: https://www.kaggle.com/c/house-prices-advanced-regression-techniques \n
 
